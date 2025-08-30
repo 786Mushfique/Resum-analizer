@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
   <br />
     <a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank">
@@ -25,11 +25,6 @@
 1. ✨ [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
-
-## 🚨 Tutorial
 
 ## <a name="introduction">✨ Introduction</a>
 
@@ -71,4 +66,4 @@ Build an AI-powered Resume Analyzer with React, React Router, and Puter.js! Impl
 
 
 # Resum-analizer
->>>>>>> f7a2eafb5934fde62cd0858818691d1acb9128d7
+
