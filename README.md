@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank">
@@ -133,3 +134,6 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 <a href="https://jsm.dev/resumind-courses" target="_blank">
   <img src="public/readme/jsmpro.webp" alt="Project Banner">
 </a>
+=======
+# Resum-analizer
+>>>>>>> f7a2eafb5934fde62cd0858818691d1acb9128d7
